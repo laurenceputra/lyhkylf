@@ -1,5 +1,4 @@
-# LYHKYLF Fund Policy (v0.2)
-
+# LYHKYLF Fund Policy (v0.4)
 This document defines the operating policy for the fund: scope, eligibility, decision rules, measurement, safeguarding, data dignity, publication, and handoff expectations.
 
 ---
@@ -298,6 +297,46 @@ The fund provides **active co-development from Month 12** (help shaping the hand
 - Diligence: **standard**
 - Renewals vs new bets: **50/50** (portfolio-level target)
 
+### 14.1 Anchor donor discretionary allocation (strictly 20%): joy and happiness learning
+
+The fund sets aside a discretionary allocation that is **strictly capped at 20% of the anchor donor’s annual allocation**. This allocation is dedicated to **joy and happiness learning** for youth.
+
+Co-donor contributions are **not** used for this category by default. A co-donor may opt in or opt out **in flight** through a written election recorded by the charity holding the fund. Opt-in applies **prospectively** to **uncommitted balances and future contributions** only, and does not retroactively reallocate funds already committed to approved grants. The election is a category preference and does not give the co-donor control over specific recipients or grant decisions; the holding charity retains full discretion.
+
+This category remains **youth-focused and Singapore-only**. It is intended for programs where the primary value is **happiness, joy, play, and positive learning experiences**, including shorter-form opportunities that may not fit the fund’s standard experimentation cadence.
+
+All non-negotiables still apply (especially safeguarding, mandatory reporting, and data dignity/PDPA). This category is separate from the overhead cap policy.
+
+
+#### 14.1.1 What this allocation is for
+Examples include joy- and play-oriented enrichment (arts, sports, maker activities, cultural experiences, outdoor experiences) delivered directly to youth, as well as short-cycle pilots and one-off experiences (including holiday camps).
+
+This allocation must not fund mental health crisis response, medication-adjacent work, or clinical treatment.
+
+#### 14.1.2 Evidence and measurement (lightweight but real)
+Discretionary grants still report the fund’s minimum indicators where applicable:
+- Attendance / dosage
+- Safeguarding incidents and resolution timeliness
+- Retention / completion (only when the program has multiple sessions where retention is meaningful)
+
+Because joy programs can be short-form, durability requirements may be adapted. Grantees should define a practical durability proxy such as repeat participation, re-enrolment into a follow-on activity, or repeated delivery across at least two runs over the year.
+
+Where appropriate, grantees may add a minimal, privacy-respecting “joy signal” (for example, a short anonymous pulse on enjoyment or willingness to return), without materially increasing measurement burden and without violating data dignity rules.
+
+#### 14.1.3 Documentation and publication
+Discretionary grants still require a short learning brief at award. For one-off or short-form activities, a post-activity write-up may replace longer checkpoint reporting. It should cover what was delivered, who was served (aggregate), attendance, any safeguarding issues, and what was learned.
+
+Learnings from discretionary grants should be published at least annually and may be aggregated into a single yearly discretionary portfolio note.
+
+#### 14.1.4 Governance and approvals
+Discretionary grants are approved by the **anchor donor**. The grant panel may be consulted, but consultation is not required.
+
+These grants are eligible for the conflict-of-interest handling described in Section 15.3.
+
+#### 14.1.5 Co-donor opt-in/out elections (prospective)
+Co-donors may opt in or opt out of allowing their funds to be used for joy and happiness discretionary grants through a written election recorded by the charity holding the fund. Elections take effect from the stated effective date (or the next portfolio cut-off) and apply only to uncommitted balances and future contributions. Elections do not retroactively reallocate funds already committed to approved grants.
+
+
 ---
 
 ## 15) Governance and conflicts of interest
@@ -307,8 +346,35 @@ The fund provides **active co-development from Month 12** (help shaping the hand
 - Grant panel provides discussion and recommendation.
 
 ### 15.2 Conflicts of interest (recusal)
-- Recusal required for **recent ties (lookback: 12 months)** and **close personal relationships**.
-- Recusal scope: **discussion + vote**.
+
+Recusal is required when a decision-maker (anchor donor or grant panel member) has **recent ties (lookback: 12 months)** or a **close personal relationship** with an applicant. Recusal scope is **discussion and vote**.
+
+**Recent ties (12-month lookback)** means any external relationship that could reasonably bias judgment, including:
+- Employment, contracting, paid advisory work, or any paid engagement with the applicant (including via the member’s organisation)
+- Governance or leadership roles (board, trustee, committee with decision rights, officer roles), even if unpaid
+- Financial interests (ownership, revenue share, referral fees, commissions, or any arrangement where the member could benefit if the grant is awarded)
+- Material partnerships where the member’s organisation is a key supplier/customer/partner and the grant could affect that relationship
+- Immediate family-linked versions of the above
+
+A panel member’s **personal donation** to an applicant within the last 12 months is treated as a recent tie only if it is **material**, defined as **SGD 25,000 or more**, or if the member is publicly positioned as a key sponsor or major donor. Smaller personal donations should be disclosed but do not require recusal.
+
+For avoidance of doubt, prior participation in decisions made **as part of this fund** and the fund’s own prior grants to an applicant (including renewals) do not constitute a conflict of interest.
+### 15.3 Conflict-of-interest exception for joy and happiness discretionary grants (with holding charity gate)
+
+For **joy and happiness discretionary grants** (Section 14.1), the fund permits an exception to the recusal policy in Section 15.2. This means conflicts that would normally require recusal do not prevent a joy and happiness discretionary grant from proceeding.
+
+Where co-donor funds are used for this category, they may only be used if the co-donor has opted in via a written election recorded by the charity holding the fund (see Section 14.1.5). Opt-in does not grant the co-donor control over specific recipients or grant decisions.
+
+Even when this exception is used, the charity holding the fund must apply an independent **public good and tax-deductibility gate** before disbursement. At minimum, the holding charity must confirm and document:
+- The grant is for charitable public benefit and is delivered directly to youth (aggregate reporting only)
+- There is no improper private benefit to the anchor donor, any co-donor, or connected persons, and the arrangement is not sponsorship or commercial in substance
+- Safeguarding and data dignity requirements are met for the activity risk level
+- The decision rationale is recorded, and the gate is approved by a non-conflicted approver within the holding charity
+
+The holding charity retains the right to veto any discretionary grant that does not pass this gate.
+
+
+---
 
 ---
 
